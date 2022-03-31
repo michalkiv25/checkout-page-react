@@ -1,0 +1,34 @@
+/*radio-step 3 */
+ul.radioUl-shipping{
+    list-style-type: none;
+    text-align: start;
+    margin-left: -130px;
+}
+
+ul li input.radio-input{
+    cursor: pointer;
+}
+
+ul label.radio-label{
+    font-size: 28px;
+    margin-left: -120px;   
+    max-width: 100%;
+    margin-top: 15px;
+}
+
+.styleRadioTime_Money{
+   margin-left: 130px;
+}
+
+.labelRadioTime_Money{
+    margin-right: 50px;
+    margin-top: -70px;
+    min-width: 50%;
+}
+
+/*All forms for input */
+ul.flex-outer{
+    margin: -10px 20% 5% auto;
+}
+
+

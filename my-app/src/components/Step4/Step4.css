@@ -1,0 +1,88 @@
+div ul.ul-one{
+    list-style-type: none;
+}
+
+div ul li.checkbox-radio-box{
+    width: 700px;
+    margin-left: -24%;
+}
+
+div ul li input.radio-border {
+    cursor: pointer;
+}
+
+ div.hr4{
+     width: 106%;
+     background-color: gray;
+     height: 2px;
+     margin-left: -6%;
+     margin-top: 5px;
+     margin-bottom: 10px;
+ }
+
+div ul li label.checkbox-radio{
+    color: black;
+    margin: auto;
+    margin-left: -210px;
+    max-width: 500px;
+    font-weight: bold;
+}
+
+img.checkbox-radio-img{
+    margin-left: 5px;
+    height: 50px;
+    width: 170px;
+}
+
+div.backgroundChange{
+    background-color: white;
+    border-top: 2px solid gray;
+    border-radius: 0px 0px 35px 35px;
+}
+
+div li .select{
+    margin-top: 3px;
+}
+
+ul li div label {
+    font-size: 32px;
+    color: black;
+}
+
+div input.inputSecurity{
+    width: 200px;
+    margin-left: 15px;
+}
+
+ul li div span{
+    color: black;
+    margin-left: 25px;
+    text-decoration: underline;
+    width: 70px;
+    position: relative;
+    font-size: 25px;
+}
+
+ul li div span.spanThis{
+    display: block;
+    margin-left: 450px;
+    position: absolute;
+    top: 25px;
+    right: 12px;
+}
+
+hr.hr{
+    width: 90%;
+}
+
+
+img.img-footer-card4{
+    margin-left: 10px;
+}
+
+div.allImg{
+   width:600px;
+   margin: auto;
+   padding: 15px;
+}
+

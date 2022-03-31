@@ -1,0 +1,43 @@
+/* App  componntes*/
+.App {
+  background-color: #FAFAFA;
+  width: 100%;
+  height: 100%;
+}
+
+@media only screen and (max-width: 1600px) {
+  .App {
+    background-color: white;
+  }
+}
+
+/* Header componntes */
+
+div.center-container{
+  /* background-color: aqua; */
+  margin-left: -220px;
+
+}
+div img.img{
+  width: 150px;
+  text-align: center;
+}
+
+div header h1.title_header{
+  font-size: 50px;
+  margin-bottom: 0%;
+}
+
+div img.img_header{
+  height: 450px;
+  width: auto;
+  margin-top: 0%;
+}
+
+hr{
+  width:70%;
+  height: 1.5px;
+  background-color: rgb(207,207,207);
+  margin-left: 5%;
+}
+

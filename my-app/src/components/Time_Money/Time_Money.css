@@ -1,0 +1,43 @@
+div img.imgTimeMoney{
+    width: 450px;
+    height: 325px;
+    position: absolute;
+    right: 150px;
+    bottom: 580px;
+    border-radius: 90%;
+}
+
+div h4.title1-box{
+    font-size: 55px;
+    margin-top: 210px;
+    margin-bottom: 0;
+}
+
+div h3.title2-box{
+    font-size:35px;
+    background-color: #33B7A6;
+    color: #FFFFFF;
+    height: 55px;
+}
+
+ ul.inputAndLabel{
+     list-style: none;
+    position: relative;
+    right: 45%;
+    top:0
+}
+
+ li label.label{
+    position: absolute;
+    right: 38%;
+}
+
+li input.input{
+    cursor: pointer; 
+}
+
+p{
+    width: 900px;
+    margin: 10px auto auto 230px;
+    text-align-last: start;
+} 

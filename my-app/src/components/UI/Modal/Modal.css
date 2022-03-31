@@ -1,0 +1,19 @@
+.container{
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 40%;
+  }
+
+  .styleStep6_Container{
+    background-color: #F2F2F2F2;
+    border: 1px solid gainsboro;
+    width: 80%;
+  }
+
+
+
+

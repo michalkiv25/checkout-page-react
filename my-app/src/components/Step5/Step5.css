@@ -1,0 +1,81 @@
+div.card5{
+    height: 180px;
+    margin-top:-35% ;
+}
+
+div ul.ul5{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+ul li.li5{
+    position: relative;
+}
+
+ul li .descriptionTitle{
+    position: absolute; 
+    left: 10%;
+    font-size: 30px; 
+}
+
+ul li .descriptionTitle2,h3.price2{
+    top: 40px;
+}
+
+ul li .descriptionTitle3{
+    top: 80px;
+    left: 120px;
+    color: #4cbfb1 ;
+}
+
+ul li h3.price{
+    position: absolute;
+    right: 40px;
+    font-size: 30px;
+}
+
+ul li h3.price3{
+    top: 80px;
+    color: #4cbfb1
+}
+
+ ul li p.points{
+    border-bottom: dashed 2px black;
+    width: 280px;
+    position: absolute;
+    top: 45px;
+    right: 170px;
+}
+
+ul li p.points2{
+    top: 150px;
+}
+
+ul li p.points3{
+    top: 60px;
+}
+
+hr.hr5{
+    position: relative;
+    top:160px; 
+    width: 95%;
+}
+
+div.note{
+    position: relative;
+    width: 550px;
+    top:140px;
+    right: 200px;
+    font-size: 25px;
+}
+
+input.inputCoupon{
+    width: 100px;
+    height: 50px;
+    background-color:  rgb(242, 242, 242)
+}
+
+
+
+

@@ -1,0 +1,40 @@
+li, select{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+ li label {
+    flex: 1 0 140px;
+    max-width: 250px;
+    font-size: 32px;
+    color: black;
+}
+
+
+li input,li select{
+    width: 350px;
+    height: 60px;
+    border-radius: 10px;
+    border: 2px solid rgb(179, 179, 179);
+    background-color: rgb(242, 242, 242);
+    caret-color:brown;
+}
+
+.disabled{
+    display: none;
+}
+
+.show{
+    visibility: visible;
+}
+
+/* Special designs for a unique component step-3 */
+.styleSelect{
+    width: 500px;
+    margin-left: 17%;
+    margin-top: -100px;
+    
+}
+

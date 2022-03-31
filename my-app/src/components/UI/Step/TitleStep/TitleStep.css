@@ -1,0 +1,18 @@
+div.start-row{
+    color: black;
+    text-align: start;
+    margin-left: 60px;
+    position: relative;
+}
+
+h4.titleOne{
+    margin-bottom: 0;
+    color: black;
+    font-size: 35px;
+}
+
+h2.titleTwo{
+    margin-top: 0;
+    color: black;
+    font-size: 55px;
+}
